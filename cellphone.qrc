@@ -1,6 +1,6 @@
 <RCC>
     <qresource prefix="/">
-        <file alias="three.js">../../3rdparty/three.js</file>
+        <file alias="three.js">qml/cellphone/three.js</file>
         <file alias="main.qml">qml/cellphone/main.qml</file>
         <file alias="CellphoneApp.qml">qml/cellphone/cellphoneapp.qml</file>
         <file alias="CellphoneCanvas.qml">qml/cellphone/cellphonecanvas.qml</file>
